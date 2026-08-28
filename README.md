@@ -140,8 +140,7 @@ python app.py
 
   - Selected for its robust performance with continuous target variables
   - Handles multicollinearity in weather-related features
-  - Achieved R² Score: 0.984
-  - Mean Absolute Error: 0.564
+  - Reported checkpoint: R² 0.9843 and MAE 0.5642 on a 61-row holdout; this small-sample result is not a production generalization guarantee.
 
 - **Feature Engineering**:
 

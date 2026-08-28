@@ -12,6 +12,11 @@ short_description: Predict forest fire risk using Fire Weather Index (FWI)
 ---
 # Forest Fire Prediction
 
+## About
+
+A Gradio regression application that estimates the Fire Weather Index from environmental inputs and maps the result to fire-risk guidance. The repository includes a Ridge-based model workflow and a Hugging Face Spaces configuration; evaluation is dataset- and split-specific.
+
+
 <div align="center">
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗_Spaces-Live_Demo-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugFQAqYBQAe4AXwPkRqiADhAdhBtxsNm3rCWvvAkXRhp5d/bb92dG4I8KrXbrLOWBYAO7fenN3fOj+q/YqM20rvPZvkJViP1kDlrD+wjnmxkxPpBqJQPqFZ0PHn1gHxsnBj6ZEZZRgC+kGrCkX6QpjxT/MAr1OeVGUpCD1jBz0F6USQP2F3vQdwsrt0hKHik+A6hqGa3gKnKDzAA7ogPDGu7VwWbpuECKlK4BUQXx3kRXchqBHYoO67CXyoYz5R2URSoZ9oAXJ0r5DshXwNQkNrK2ZFHAcGIhQvN5cq4UZVHrNHwpZPK7NrGN/NT9SqKL+ALkKyoGlCkYZwAAAABJRU5ErkJggg==)](https://huggingface.co/spaces/dhananjay1509/forest-fire-prediction)

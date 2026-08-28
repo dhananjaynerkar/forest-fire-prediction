@@ -75,7 +75,7 @@ Try the live demo on Hugging Face Spaces: [Forest Fire Prediction Demo](https://
 
 ```bash
 # Clone the repository
-git clone https://github.com/Dhananjay1509/forest-fire-prediction.git
+git clone https://github.com/dhananjaynerkar/forest-fire-prediction.git
 cd forest-fire-prediction
 
 # Create and activate virtual environment
@@ -211,7 +211,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Authors
 
-- Your Name - [GitHub](https://github.com/dhananjay1509)
+- Dhananjay Nerkar - [GitHub](https://github.com/dhananjaynerkar)
 
 ## 🙏 Acknowledgments
 
@@ -224,7 +224,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 Dhananjay Nerkar - nerkarr.dhananjay@gmail.com
-Project Link: [https://github.com/Dhananjay1509/forest-fire-prediction](https://github.com/Dhananjay1509/forest-fire-prediction)
+Project Link: [https://github.com/dhananjaynerkar/forest-fire-prediction](https://github.com/dhananjaynerkar/forest-fire-prediction)
 
 
 
